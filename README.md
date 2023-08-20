@@ -14,9 +14,9 @@ live - https://www.scott-tuschl.com
 ##React
 --------------------------------------------------------------------------------------------
 
-TreasureHunt https://github.com/scott198989/TreasureHunt.git
+Treasure Hunt https://github.com/scott198989/TreasureHunt.git
 
-TicTacToe-Project https://github.com/scott198989/tictactoe-project.git
+Tic Tac Toe Project https://github.com/scott198989/tictactoe-project.git
 
 Calculator https://github.com/scott198989/Calculator.git
 
