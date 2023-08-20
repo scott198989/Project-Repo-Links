@@ -5,7 +5,7 @@ Hello,
 
 Below you will find links to all my completed projects repos.  This README was created as a way to tidy up my GitHub, which by the way, I would like to thank you for visiting!
 
-##HTML/CSS/JavaScript
+HTML/CSS/JavaScript
 --------------------------------------------------------------------------------------------
 
 Portfolio https://github.com/scott198989/Portfolio.git
