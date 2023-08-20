@@ -12,7 +12,7 @@ Portfolio https://github.com/scott198989/Portfolio.git
 
 live - https://www.scott-tuschl.com 
 
-##React
+React
 --------------------------------------------------------------------------------------------
 
 Treasure Hunt https://github.com/scott198989/TreasureHunt.git
