@@ -51,6 +51,8 @@ Address Book App https://github.com/scott198989/Address-Book.git
 Ruby on Rails
 --------------------------------------------------------------------------------------------
 
+Full Stack Ruby on Rails 7 Alpha-Blog (work in progress as of 8/3/23) https://github.com/scott198989/Alpha-Blog.git
+
 Cat Tinder (Back End) https://github.com/scott198989/CatTinderBackNew.git
 
 Apartment App (Back End) https://github.com/scott198989/apartment-app-backend-super-saiyan.git
