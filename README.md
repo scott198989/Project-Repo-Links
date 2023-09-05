@@ -1,74 +1,97 @@
-# Project-Repo-Links
-                                                    Links To Project Repos
-
-Hello,
-
-Below you will find links to all my completed projects repos.  This README was created as a way to tidy up my GitHub, which by the way, I would like to thank you for visiting!
-
-HTML/CSS/JavaScript
---------------------------------------------------------------------------------------------
-
-Portfolio https://github.com/scott198989/Portfolio.git
-
-live - https://www.scott-tuschl.com 
-
-React
---------------------------------------------------------------------------------------------
-
-Treasure Hunt https://github.com/scott198989/TreasureHunt.git
-
-Tic Tac Toe Project https://github.com/scott198989/tictactoe-project.git
-
-Calculator https://github.com/scott198989/Calculator.git
-
-Cat Tinder (Front End) https://github.com/scott198989/CatTinderFront.git
-
-Pig Latin Translator https://github.com/scott198989/pig-latin-translator-scott.git
-
-Apartment App (Front End) https://github.com/scott198989/AptAppFrontNew.git
-
-Travelouge App (Front End) https://github.com/RST-Charlie/Travelogue-Front.git
 
 
-React Native
---------------------------------------------------------------------------------------------
-
-Jest
---------------------------------------------------------------------------------------------
+Scott's Project Repositories
 
 
-RTL
---------------------------------------------------------------------------------------------
+Hello! 👋
 
-Ruby
---------------------------------------------------------------------------------------------
-
-Authenticator App https://github.com/scott198989/Authenticator-App.git
-
-Address Book App https://github.com/scott198989/Address-Book.git
+Thank you for visiting my GitHub. This README serves as a concise directory to the repositories of my completed projects. Dive in and explore my journey through web development, one repo at a time.
 
 
-Ruby on Rails
---------------------------------------------------------------------------------------------
+## HTML/CSS/JavaScript
 
-Full Stack Ruby on Rails 7 Alpha-Blog (work in progress as of 8/3/23) https://github.com/scott198989/Alpha-Blog.git
+Web design and scripting projects built with core web technologies.
 
-Cat Tinder (Back End) https://github.com/scott198989/CatTinderBackNew.git
+- Portfolio https://github.com/scott198989/Portfolio.git
 
-Apartment App (Back End) https://github.com/scott198989/apartment-app-backend-super-saiyan.git
+- live - https://www.scott-tuschl.com 
 
-Photo Flare (Full Stack) https://photo-flare.onrender.com/users/sign_in
+---
+
+## React
+
+Interactive UIs and applications powered by React.
+
+- Treasure Hunt https://github.com/scott198989/TreasureHunt.git
+
+- Tic Tac Toe Project https://github.com/scott198989/tictactoe-project.git
+
+- Calculator https://github.com/scott198989/Calculator.git
+
+- Cat Tinder (Front End) https://github.com/scott198989/CatTinderFront.git
+
+- Pig Latin Translator https://github.com/scott198989/pig-latin-translator-scott.git
+
+- Apartment App (Front End) https://github.com/scott198989/AptAppFrontNew.git
+
+- Travelouge App (Front End) https://github.com/RST-Charlie/Travelogue-Front.git
+
+---
+
+## React Native
+
+Mobile apps crafted with React Native (work in progress)
+
+---
 
 
+## Jest
 
-RSpec
---------------------------------------------------------------------------------------------
+Testing JavaScript projects with Jest (work in progress)
+
+---
+
+## RTL
+
+Component testing in React using React Testing Library (work in progress)
+
+---
+
+## Ruby
+
+Essential Ruby projects focusing on the core language and algorithms.
 
 
+- Authenticator App https://github.com/scott198989/Authenticator-App.git
 
-PostgresSQL
---------------------------------------------------------------------------------------------
+- Address Book App https://github.com/scott198989/Address-Book.git
+
+---
+
+## Ruby on Rails
+
+- Cat Tinder (Back End) https://github.com/scott198989/CatTinderBackNew.git
+
+- Apartment App (Back End) https://github.com/scott198989/apartment-app-backend-super-saiyan.git
+
+- Photo Flare (Full Stack) https://photo-flare.onrender.com/users/sign_in
+
+---
 
 
-Postman
---------------------------------------------------------------------------------------------
+## RSpec
+
+Testing Ruby projects using RSpec (work in progress)
+
+---
+
+
+## PostgresSQL
+
+Projects where PostgreSQL serves as the main database (work in progress)
+
+---
+
+## Postman
+
+API development and testing using Postman (work in progress)
