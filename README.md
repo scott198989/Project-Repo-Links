@@ -80,6 +80,12 @@ Essential Ruby projects focusing on the core language and algorithms.
 
 ---
 
+## Python
+
+- Practice code, learning Python fundementals 
+
+- Age tracker app
+
 
 ## RSpec
 
