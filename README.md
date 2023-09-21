@@ -82,10 +82,11 @@ Essential Ruby projects focusing on the core language and algorithms.
 
 ## Python
 
-- Practice code, learning Python fundementals 
+- Practice code, learning Python fundementals (code only) https://github.com/scott198989/Python-Practice.git
 
 - Age tracker app
 
+---
 
 ## RSpec
 
