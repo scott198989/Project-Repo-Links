@@ -86,21 +86,8 @@ Essential Ruby projects focusing on the core language and algorithms.
 
 - Age tracker app (code only https://github.com/scott198989/Age-Tracker.git
 
----
 
 ## RSpec
 
 Testing Ruby projects using RSpec (work in progress)
 
----
-
-
-## PostgresSQL
-
-Projects where PostgreSQL serves as the main database (work in progress)
-
----
-
-## Postman
-
-API development and testing using Postman (work in progress)
