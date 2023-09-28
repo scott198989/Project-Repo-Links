@@ -76,8 +76,8 @@ Essential Ruby projects focusing on the core language and algorithms.
 
 - Travelouge App (Back End) https://github.com/RST-Charlie/travelogue-backend.git
 
-- Photo Flare (Full Stack) https://photo-flare.onrender.com/users/sign_in
-
+- Photo Flare (Full Stack) https://github.com/scott198989/PhotoFlare.git
+  
 ---
 
 ## Python
