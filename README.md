@@ -5,12 +5,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
 
 Hello there! 👋  
 Thank you for dropping by my GitHub! This README serves as your personal tour guide 🗺️ to my coding journey. Come on, let's explore! 🚀
 
 ---
+
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-tuschl)
+
 
 ## 🌐 HTML/CSS/JavaScript 🌐
 
