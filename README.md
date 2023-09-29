@@ -12,7 +12,7 @@ Thank you for dropping by my GitHub! This README serves as your personal tour gu
 ---
 
 ## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-tuschl)
+![LinkedIn Logo](url_of_the_image_here) [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
 
 
 ## 🌐 HTML/CSS/JavaScript 🌐
