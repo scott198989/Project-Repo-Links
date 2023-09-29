@@ -6,8 +6,9 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 
-Hello there! 👋  
-Thank you for dropping by my GitHub! This README serves as your personal tour guide 🗺️ to my coding journey. Come on, let's explore! 🚀
+Hello there!
+
+Thank you for dropping by my GitHub! This README serves as your personal tour guide to my coding journey. Feel free to look around and check out my code, and if you have any questions, please follow below to reach out to me.  I look forward to reaching back to you, and thank you for visiting!
 
 ---
 
