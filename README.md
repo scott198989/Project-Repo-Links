@@ -86,7 +86,7 @@ Essential Ruby projects focusing on the core language and algorithms.
 
 - Age tracker app https://github.com/scott198989/Age-Tracker.git
 
-- Programming Jouranl https://github.com/scott198989/Programming-Journal.git
+- Programming Journal https://github.com/scott198989/Programming-Journal.git
 
 
 ## RSpec
