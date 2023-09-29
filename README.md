@@ -1,95 +1,84 @@
+# 👨‍💻 Scott's Project Repositories 👨‍💻
 
-
-Scott's Project Repositories
-
-
-Hello! 👋
-
-Thank you for visiting my GitHub. This README serves as a concise directory to the repositories of my completed projects. Dive in and explore my journey through web development, one repo at a time.
-
-
-## HTML/CSS/JavaScript
-
-Web design and scripting projects built with core web technologies.
-
-- Portfolio https://github.com/scott198989/Portfolio.git
-
-- live - https://www.scott-tuschl.com 
+Hello there! 👋  
+Thank you for dropping by my GitHub! This README serves as your personal tour guide 🗺️ to my coding journey. Come on, let's explore! 🚀
 
 ---
 
-## React
+## 🌐 HTML/CSS/JavaScript 🌐
 
-Interactive UIs and applications powered by React.
+Your first stop! Web design and scripting wonders built with core web technologies.
 
-- Treasure Hunt https://github.com/scott198989/TreasureHunt.git
-
-- Tic Tac Toe Project https://github.com/scott198989/tictactoe-project.git
-
-- Calculator https://github.com/scott198989/Calculator.git
-
-- Cat Tinder (Front End) https://github.com/scott198989/CatTinderFront.git
-
-- Pig Latin Translator https://github.com/scott198989/pig-latin-translator-scott.git
-
-- Apartment App (Front End) https://github.com/scott198989/AptAppFrontNew.git
-
-- Travelouge App (Front End) https://github.com/scott198989/TravelogueNew.git
+- 🎨 [Portfolio](https://github.com/scott198989/Portfolio.git)  
+  - 🌍 [Live Here](https://www.scott-tuschl.com)
 
 ---
 
-## React Native
+## ⚛️ React ⚛️
 
-Mobile apps crafted with React Native (work in progress)
+Engaging and dynamic UIs and applications crafted with love and React.
 
----
-
-
-## Jest
-
-Testing JavaScript projects with Jest (work in progress)
-
----
-
-## RTL
-
-Component testing in React using React Testing Library (work in progress)
+- 🏝️ [Treasure Hunt](https://github.com/scott198989/TreasureHunt.git)
+- ❌⭕ [Tic Tac Toe Project](https://github.com/scott198989/tictactoe-project.git)
+- 🧮 [Calculator](https://github.com/scott198989/Calculator.git)
+- 😺 [Cat Tinder (Front End)](https://github.com/scott198989/CatTinderFront.git)
+- 🐷 [Pig Latin Translator](https://github.com/scott198989/pig-latin-translator-scott.git)
+- 🏢 [Apartment App (Front End)](https://github.com/scott198989/AptAppFrontNew.git)
+- 🌍 [Travelogue App (Front End)](https://github.com/scott198989/TravelogueNew.git)
 
 ---
 
-## Ruby
+## 📱 React Native 📱
 
-Essential Ruby projects focusing on the core language and algorithms.
-
-
-- Authenticator App https://github.com/scott198989/Authenticator-App.git
-
-- Address Book App https://github.com/scott198989/Address-Book.git
+Mobile sorcery in progress, stay tuned! 
 
 ---
 
-## Ruby on Rails
+## ✅ Jest ✅
 
-- Cat Tinder (Back End) https://github.com/scott198989/CatTinderBackNew.git
+JavaScript tested with the magic wand called Jest (coming soon!)
 
-- Apartment App (Back End) https://github.com/scott198989/apartment-app-backend-super-saiyan.git
-
-- Travelouge App (Back End) https://github.com/RST-Charlie/travelogue-backend.git
-
-- Photo Flare (Full Stack) https://github.com/scott198989/PhotoFlare.git
-  
 ---
 
-## Python
+## 🧪 RTL (React Testing Library) 🧪
 
-- Practice code, learning Python fundementals (code only) https://github.com/scott198989/Python-Practice.git
+Testing React components like a lab wizard (still brewing the potion!)
 
-- Age tracker app https://github.com/scott198989/Age-Tracker.git
+---
 
-- Programming Journal https://github.com/scott198989/Programming-Journal.git
+## 💎 Ruby 💎
 
+Diving into the roots with core Ruby projects and algorithms.
 
-## RSpec
+- 🛡️ [Authenticator App](https://github.com/scott198989/Authenticator-App.git)
+- 📞 [Address Book App](https://github.com/scott198989/Address-Book.git)
 
-Testing Ruby projects using RSpec (work in progress)
+---
+
+## 🛤️ Ruby on Rails 🛤️
+
+Full-stack wizardry right here!
+
+- 😺 [Cat Tinder (Back End)](https://github.com/scott198989/CatTinderBackNew.git)
+- 🏢 [Apartment App (Back End)](https://github.com/scott198989/apartment-app-backend-super-saiyan.git)
+- 🌍 [Travelogue App (Back End)](https://github.com/RST-Charlie/travelogue-backend.git)
+- 📸 [Photo Flare (Full Stack)](https://github.com/scott198989/PhotoFlare.git)
+
+---
+
+## 🐍 Python 🐍
+
+Venturing into the world of Python, one line at a time.
+
+- 📚 [Practice Code](https://github.com/scott198989/Python-Practice.git)
+- 🎂 [Age Tracker App](https://github.com/scott198989/Age-Tracker.git)
+- 📔 [Programming Journal](https://github.com/scott198989/Programming-Journal.git)
+
+---
+
+## 🧐 RSpec 🧐
+
+Ruby testing done right. Hold on, I'm just getting started! 😉
+
+---
 
