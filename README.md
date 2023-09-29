@@ -61,7 +61,7 @@ Full-stack wizardry right here!
 
 - 😺 [Cat Tinder (Back End)](https://github.com/scott198989/CatTinderBackNew.git)
 - 🏢 [Apartment App (Back End)](https://github.com/scott198989/apartment-app-backend-super-saiyan.git)
-- 🌍 [Travelogue App (Back End)](https://github.com/RST-Charlie/travelogue-backend.git)
+- 🌍 [Travelogue App (Back End)](https://github.com/scott198989/Travellogue-Back.git)
 - 📸 [Photo Flare (Full Stack)](https://github.com/scott198989/PhotoFlare.git)
 
 ---
