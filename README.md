@@ -11,21 +11,6 @@ Thank you for dropping by my GitHub! This README serves as your personal tour gu
 
 ---
 
-## :fa-linkedin: Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/scott-tuschl)
-
-
-## `git connect <social>`
-`LinkedIn:` [https://www.linkedin.com/in/scott-tuschl](https://www.linkedin.com/in/scott-tuschl)
-
-
-## Connect the Dots with Me
-1. :link: [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
-
-
-
-
-
 ## 🤝 Connect with Me 🤝  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-tuschl)
 
