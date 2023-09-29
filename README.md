@@ -34,7 +34,7 @@ Interactive UIs and applications powered by React.
 
 - Apartment App (Front End) https://github.com/scott198989/AptAppFrontNew.git
 
-- Travelouge App (Front End) https://github.com/RST-Charlie/Travelogue-Front.git
+- Travelouge App (Front End) https://github.com/scott198989/TravelogueNew.git
 
 ---
 
