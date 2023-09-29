@@ -12,7 +12,7 @@ Thank you for dropping by my GitHub! This README serves as your personal tour gu
 ---
 
 ## Connect with me  
-![LinkedIn Logo](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png) [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
+:link: [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
 
 
 ## 🌐 HTML/CSS/JavaScript 🌐
