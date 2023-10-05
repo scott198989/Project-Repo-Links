@@ -40,6 +40,7 @@ Engaging and dynamic UIs and applications crafted with love and React.
 - 🐷 [Pig Latin Translator](https://github.com/scott198989/pig-latin-translator-scott.git)
 - 🏢 [Apartment App (Front End)](https://github.com/scott198989/AptAppFrontNew.git)
 - 🌍 [Travelogue App (Front End)](https://github.com/scott198989/TravelogueNew.git)
+- 🧼 [Prime Industrial Cleaning (Front End) - Work in Progress](https://github.com/scott198989/prime-industrial-frontend.git)
 
 ---
 
@@ -78,6 +79,7 @@ Full-stack wizardry right here!
 - 🏢 [Apartment App (Back End)](https://github.com/scott198989/apartment-app-backend-super-saiyan.git)
 - 🌍 [Travelogue App (Back End)](https://github.com/scott198989/Travellogue-Back.git)
 - 📸 [Photo Flare (Full Stack)](https://github.com/scott198989/PhotoFlare.git)
+- 🧼 [Prime Industrial Cleaning (Back End) - Work in Progress](https://github.com/scott198989/prime-industrial-cleaning-backend.git)
 
 ---
 
